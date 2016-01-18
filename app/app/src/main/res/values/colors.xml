@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Indigo500" value="#3F51B5"/>
+    <color name="Indigo50" value="#E8EAF6"/>
+    <color name="Indigo100" value="#C5CAE9"/>
+    <color name="Indigo200" value="#9FA8DA"/>
+    <color name="Indigo300" value="#7986CB"/>
+    <color name="Indigo400" value="#5C6BC0"/>
+    <color name="Indigo600" value="#3949AB"/>
+    <color name="Indigo700" value="#303F9F"/>
+    <color name="Indigo800" value="#283593"/>
+    <color name="Indigo900" value="#1A237E"/>
+    <color name="IndigoA100" value="#8C9EFF"/>
+    <color name="IndigoA200" value="#536DFE"/>
+    <color name="IndigoA400" value="#3D5AFE"/>
+    <color name="IndigoA700" value="#304FFE"/>
+    <color name="AccentColor" value="#fb3b25"/>
+    <color name="textWhite" value="#ffffff"/>
+    <color name="textBlack" value="#000000"/>
+</resources>
