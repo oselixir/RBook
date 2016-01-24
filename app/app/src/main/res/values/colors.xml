@@ -14,7 +14,7 @@
     <color name="IndigoA200" value="#536DFE"/>
     <color name="IndigoA400" value="#3D5AFE"/>
     <color name="IndigoA700" value="#304FFE"/>
-    <color name="AccentColor" value="#fb3b25"/>
+    <color name="AccentColour" value="#fb3b25"/>
     <color name="textWhite" value="#ffffff"/>
     <color name="textBlack" value="#000000"/>
 </resources>
